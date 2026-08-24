@@ -1,0 +1,6 @@
+{
+  "name": "Daily Deen",
+  "description": "Daily Deen — Prayer times, Azan reminders, daily authentic duas, and gentle Sadqa NGO directory companion.",
+  "requestFramePermissions": ["geolocation", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
